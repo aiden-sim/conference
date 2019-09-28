@@ -6,7 +6,7 @@
 
 이번에 주제는 스프링 배치였고 평소에 회사에서 Tasklet과 Step 방식으로 사용하고 있는 부분이 있었기 때문에 관심이 갔다.
 보통 스프링4.0 이상인 경우 conifg 방식의 애노테이션을 많이 사용한다고 하는데, 아직 회사에서는 XML 방식으로 많이 쓰고 있는 것 같다.
-이번에 소개한 스프링 배치들도 대부분다 애노테이션 기반의 얘제였다.
+이번에 소개한 스프링 배치들도 대부분다 애노테이션 기반의 예제였다.
 
 
 #### 기본편
@@ -84,7 +84,6 @@ JPA & Spring Batch
 -JPA N + 1
 => join fetch
 => 하위 엔티티 2개 종류 이상에서 Join Fetch 사용 시 MultipleBagFetchException 이 발생 (default_batch_fetch_size로 해결) - hibernate
-
 
 소량일 경우 HibernateCusror
 대량일 경우 JpaPagingItemReader
