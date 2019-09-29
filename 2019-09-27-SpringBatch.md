@@ -77,7 +77,7 @@ Jenkins 파이프라인
   - 발표하신분은 Step 대신 Jenkins 파이프라인을 선호하신다고 했는데 Step은 중간에 필요한 Job만 독립적으로 수행하기 어렵다고 한다.
 
 
-발표자 분은 SpringBatch가 QA분이 직접 테스트 하기 어렵기 때문에 테스트 코드를 많이 짜는 편인데 이상하게도 전체 테스트 코드 수행 시, 완료 시간이 오래 걸려서 확인해 보니 Environment가 변경될 때마다 Spring Conext를 재시작하는 현상을 발견했다고 한다.
+SpringBatch가 QA분이 직접 테스트 하기 어렵기 때문에 테스트 코드를 많이 짜는 편인데 이상하게도 전체 테스트 코드 수행 시, 완료 시간이 오래 걸려서 확인해 보니 Environment가 변경될 때마다 Spring Conext를 재시작하는 현상을 발견했다고 한다.
 
 
 ![20190926_204832](https://user-images.githubusercontent.com/7076334/65834415-7ba8f700-e315-11e9-8bfd-9e60f03a7c84.jpg)
