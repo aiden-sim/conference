@@ -94,7 +94,7 @@ Environment가 변경되는 조건
   - 여러 테스트 코드에서도 호출해도, 결국 Spring Context는 한번만 기동된다. (Spring도 바보가 아닌 이상 ...)
 
 
-![20190926_210433](https://user-images.githubusercontent.com/7076334/65834488-61234d80-e316-11e9-81e8-cc79789c3a98.jpg)
+![20190926_205943](https://user-images.githubusercontent.com/7076334/65851396-b9e1fd00-e38d-11e9-8034-b0aa9ccdc9a5.jpg)
 SpringBatch에서 JPA를 사용할 경우 발생하는 N+1 문제에서도 얘기해 주셨는데 이 부분은 조금 이해를 못해서 나중에 좀 더 찾아 봐야 될 것 같다.
 
 JPA N+1 문제
