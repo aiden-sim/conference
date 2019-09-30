@@ -91,7 +91,7 @@ Environment가 변경되는 조건
 ![20190926_205231](https://user-images.githubusercontent.com/7076334/65834414-7ba8f700-e315-11e9-9d8c-5a59a8774f0d.jpg)
 해결방법
 - ApplicationConext를 이용하여 직접 Job의 Bean을 조회 해온다.
-  - 여러 테스트 코드에서도 호출해도, 결국 Spring Context는 한번만 기동된다. (Spring도 바보가 아닌 이상 ...)
+  - 여러 테스트 코드에서 호출해도, 결국 Spring Context는 한번만 기동된다. (Spring도 바보가 아닌 이상 ...)
 
 
 ![20190926_205943](https://user-images.githubusercontent.com/7076334/65851396-b9e1fd00-e38d-11e9-8034-b0aa9ccdc9a5.jpg)
