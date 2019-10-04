@@ -67,6 +67,7 @@ Jenkins 장점
 
 
 <img src="https://user-images.githubusercontent.com/7076334/65834258-418b2580-e314-11e9-8b93-c536cc31a816.jpg" width="500" height="300" />
+
 무중단 배포
 - readlink를 사용
 
