@@ -1,3 +1,6 @@
+if kakao 2019
+
+https://if.kakao.com/2019/program
 
 
 ## 카카오톡 적용 사례를 통해 살펴보는 카카오 클라우드의 Kubernetes as a Service
